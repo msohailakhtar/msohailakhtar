@@ -109,7 +109,7 @@ I welcome collaborations in:
 
 ## 📫 Connect With Me
 
-📧 Email: **m.sohailkhtar.ai@gmail.com**
+📧 Email: **m.sohailakhtar.ai@gmail.com**
 
 💼 LinkedIn:
 https://www.linkedin.com/in/muhammad-sohail-akhtar
