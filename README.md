@@ -1,34 +1,59 @@
-# Hi there 👋, I'm Muhammad Sohail Akhtar
+# Muhammad Sohail Akhtar
 
-### Senior Lecturer | Department of Computing | Applied Mathematics | Artificial Intelligence Researcher
+### Senior Lecturer | Department of Computing | Riphah International University Sahiwal, Pakistan
+### Applied Mathematics | Artificial Intelligence | Machine Learning | Reinforcement Learning
 
-![](https://komarev.com/ghpvc/?username=msohailakhtar&label=Profile%20Views&color=0e75b6&style=flat)
+---
+
+## 👋 Welcome
 
 Welcome to my GitHub!
 
-I am a **Senior Lecturer in the Department of Computing at Riphah International University, Pakistan** with an academic background in **Applied Mathematics**. My research focuses on developing mathematically grounded Artificial Intelligence systems for solving real-world problems through intelligent decision-making.
+I am **Muhammad Sohail Akhtar**, a **Senior Lecturer in the Department of Computing at Riphah International University, Pakistan**. My academic foundation is in **Applied Mathematics**, and my research focuses on developing mathematically grounded Artificial Intelligence methods for intelligent decision-making under uncertainty.
 
-I am passionate about integrating **Mathematics, Machine Learning, Reinforcement Learning, and Autonomous Systems** to build the next generation of intelligent technologies. I am currently preparing for a **fully funded PhD in Artificial Intelligence** and actively building research-oriented open-source projects.
+I enjoy combining mathematics, programming, and AI to solve real-world problems through research, teaching, and open-source development.
 
 ---
 
 # 🎓 Academic Profile
 
-- 👨‍🏫 **Senior Lecturer**, Department of Computing, Riphah International University
-- 🎓 M.Phil. in Mathematics
-- 📚 Teaching Mathematics, Machine Learning, Python & Data Analytics
-- 🔬 AI Researcher in Applied Mathematics and Artificial Intelligence
-- 🌍 PhD Aspirant in Artificial Intelligence
+**Current Position**
+
+Senior Lecturer  
+Department of Computing  
+Riphah International University
+
+**Academic Background**
+
+- M.Phil. Mathematics
+- Applied Mathematics Researcher
+- Artificial Intelligence Researcher
 
 ---
 
-# 🔬 Research Interests
+# 🔬 Research Vision
 
+My long-term research goal is to develop mathematically rigorous Artificial Intelligence systems capable of learning, reasoning, and making reliable autonomous decisions in complex and uncertain environments.
+
+My work aims to bridge:
+
+- Applied Mathematics
 - Artificial Intelligence
 - Machine Learning
 - Reinforcement Learning
 - Mathematical Optimization
 - Autonomous Systems
+
+---
+
+# 🔍 Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Reinforcement Learning
+- Deep Learning
+- Autonomous Systems
+- Mathematical Optimization
 - Explainable AI (XAI)
 - AI for Decision Making
 - AI in Education
@@ -36,40 +61,34 @@ I am passionate about integrating **Mathematics, Machine Learning, Reinforcement
 
 ---
 
-# 🛠️ Technologies & Tools
+# 💻 Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-# 💻 Programming & Technical Skills
+### Programming
 
 - Python
 - SQL
-- Git & GitHub
+- Git
+- GitHub
+
+### Artificial Intelligence
+
 - Machine Learning
 - Deep Learning
 - Reinforcement Learning
-- TensorFlow
-- Scikit-learn
+- Data Analytics
+
+### Libraries & Tools
+
 - NumPy
 - Pandas
+- Scikit-learn
+- TensorFlow
 - Matplotlib
 - Power BI
-- Data Analytics
-- Mathematical Modeling
-- Optimization
 
 ---
 
-# 📖 Teaching Areas
+# 👨‍🏫 Teaching Areas
 
 - Artificial Intelligence
 - Machine Learning
@@ -79,107 +98,137 @@ I am passionate about integrating **Mathematics, Machine Learning, Reinforcement
 - Linear Algebra
 - Calculus
 - Probability & Statistics
-- Mathematical Modeling
 
 ---
 
 # 🚀 Current Projects
 
-- 🤖 AI Research Portfolio
-- 🧠 Machine Learning Algorithms
-- 🎯 Reinforcement Learning
-- 👨‍💻 AI Assistant Development
-- 📸 Face Recognition Attendance System
-- 📚 Mathematics for Artificial Intelligence
-- 🐍 Python for AI
-- 📊 Power BI Dashboards
+I am currently building an open-source AI research portfolio covering:
 
----
-
-# 🌱 Currently Learning
-
+- Python for Artificial Intelligence
+- Mathematics for AI
+- Machine Learning Algorithms
 - Reinforcement Learning
-- Agentic AI
-- Large Language Models (LLMs)
-- Explainable AI (XAI)
-- Mathematical Optimization
-- Autonomous Decision-Making Systems
+- AI Research Notes
+- Face Recognition Attendance System
+- AI Assistant
+- Power BI Dashboards
 
 ---
 
-# 🎯 2026–2027 Goals
+# 📚 Current Learning Roadmap
 
-- 🎓 Secure a Fully Funded PhD Position in Artificial Intelligence
-- 📝 Publish High-Quality AI Research Papers
-- 🌍 Build an Open-Source AI Research Portfolio
-- 🤝 Collaborate with International AI Researchers
-- 🚀 Develop Intelligent Autonomous Systems
-- 📖 Contribute to AI Education and Research
+✔ Python Programming
 
----
+✔ Mathematics for AI
 
-# 📊 GitHub Statistics
+🔄 Machine Learning
 
-![Muhammad Sohail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msohailakhtar&show_icons=true&theme=tokyonight&hide_border=true)
+🔄 Deep Learning
 
----
+🔄 Reinforcement Learning
 
-# 🔥 GitHub Contribution Streak
+⏳ Large Language Models
 
-![GitHub Streak](https://streak-stats.demolab.com?user=msohailakhtar&theme=tokyonight&hide_border=true)
+⏳ Agentic AI
 
----
+⏳ Explainable AI
 
-# 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msohailakhtar&layout=compact&theme=tokyonight&hide_border=true)
+⏳ Autonomous Systems
 
 ---
 
-# 🤝 Let's Collaborate
+# 🎯 Research Goals (2026–2027)
 
-I am always interested in collaborating on projects related to:
+- Secure a fully funded PhD position in Artificial Intelligence
+- Publish high-quality research papers
+- Build a professional AI research portfolio
+- Contribute to open-source AI projects
+- Collaborate with international researchers
+- Develop intelligent autonomous systems for real-world applications
+
+---
+
+# 🏅 Professional Development
+
+- Corresponding Member — National Academy of Artificial Intelligence (NAAI)
+- Outcome-Based Education (OBE) Certified Faculty
+- AI for Social Impact — Asian Development Bank Institute (ADBI)
+- Instructor — Machine Learning Summer Course
+- Kaggle Python Programmer
+
+---
+
+# 🌍 Connect With Me
+
+**Location**
+
+Sahiwal, Pakistan
+
+**Institution**
+
+Department of Computing
+
+Riphah International University
+
+**LinkedIn**
+
+https://www.linkedin.com/in/muhammad-sohail-akhtar
+
+**Email**
+
+m.sohailakhtar.ai@gmail.com
+
+---
+
+# 🤝 Collaboration
+
+I welcome collaboration in the following areas:
 
 - Artificial Intelligence
 - Machine Learning
 - Reinforcement Learning
 - Applied Mathematics
 - AI in Education
-- Open-Source AI Projects
-- Autonomous Systems
+- Open-Source Research
+- Data Science
 
 ---
 
-# 🏅 Certifications & Professional Development
+# 📈 Repository Roadmap
 
-- Corresponding Member — National Academy of Artificial Intelligence (NAAI)
-- Outcome-Based Education (OBE) Certified Faculty
-- Artificial Intelligence (AI) for Social Impact — Asian Development Bank Institute (ADBI)
-- Instructor — Machine Learning Summer Course, Riphah International University
-- Kaggle Python Programmer
+This GitHub will gradually contain research-oriented repositories including:
 
----
+📂 Python-for-AI
 
-# 📫 Connect With Me
+📂 Mathematics-for-AI
 
-📍 Sahiwal, Pakistan
+📂 Statistics-for-AI
 
-🏛️ Department of Computing  
-Riphah International University
+📂 Machine-Learning
 
-📧 **m.sohailakhtar.ai@gmail.com**
+📂 Deep-Learning
 
-💼 LinkedIn  
-https://www.linkedin.com/in/muhammad-sohail-akhtar
+📂 Reinforcement-Learning
 
----
+📂 AI-Projects
 
-# 💡 Research Vision
+📂 AI-Research-Notes
 
-> **"My vision is to bridge Applied Mathematics and Artificial Intelligence by developing mathematically grounded intelligent systems capable of autonomous decision-making in complex and uncertain environments. Through research, education, and open-source contributions, I aim to create AI solutions that have meaningful real-world impact."**
+📂 Research-Proposal
+
+📂 Research-Papers
+
+📂 Lecture-Notes
 
 ---
 
-### ⭐ Thank you for visiting my GitHub!
+# 💡 Research Philosophy
 
-*"Mathematics is the language of intelligence, and Artificial Intelligence is the future built upon it."*
+> "I believe that the future of Artificial Intelligence depends on combining mathematical rigor with practical engineering to build intelligent, explainable, and trustworthy systems capable of solving real-world challenges."
+
+---
+
+⭐ Thank you for visiting my GitHub profile.
+
+I hope my repositories, research, and educational resources contribute to the advancement of Artificial Intelligence and inspire future researchers.
