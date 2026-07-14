@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 Welcome
+## Welcome
 
 Welcome to my GitHub!
 
@@ -15,7 +15,7 @@ I enjoy combining mathematics, programming, and AI to solve real-world problems 
 
 ---
 
-# 🎓 Academic Profile
+# Academic Profile
 
 **Current Position**
 
@@ -31,7 +31,7 @@ Riphah International University
 
 ---
 
-# 🔬 Research Vision
+# Research Vision
 
 My long-term research goal is to develop mathematically rigorous Artificial Intelligence systems capable of learning, reasoning, and making reliable autonomous decisions in complex and uncertain environments.
 
@@ -46,7 +46,7 @@ My work aims to bridge:
 
 ---
 
-# 🔍 Research Interests
+# Research Interests
 
 - Artificial Intelligence
 - Machine Learning
@@ -61,7 +61,7 @@ My work aims to bridge:
 
 ---
 
-# 💻 Technical Skills
+# Technical Skills
 
 ### Programming
 
@@ -88,7 +88,7 @@ My work aims to bridge:
 
 ---
 
-# 👨‍🏫 Teaching Areas
+# Teaching Areas
 
 - Artificial Intelligence
 - Machine Learning
@@ -101,7 +101,7 @@ My work aims to bridge:
 
 ---
 
-# 🚀 Current Projects
+#  Current Projects
 
 I am currently building an open-source AI research portfolio covering:
 
@@ -116,7 +116,7 @@ I am currently building an open-source AI research portfolio covering:
 
 ---
 
-# 📚 Current Learning Roadmap
+# Current Learning Roadmap
 
 ✔ Python Programming
 
@@ -138,7 +138,7 @@ I am currently building an open-source AI research portfolio covering:
 
 ---
 
-# 🎯 Research Goals (2026–2027)
+# Research Goals (2026–2027)
 
 - Secure a fully funded PhD position in Artificial Intelligence
 - Publish high-quality research papers
@@ -149,7 +149,7 @@ I am currently building an open-source AI research portfolio covering:
 
 ---
 
-# 🏅 Professional Development
+#  Professional Development
 
 - Corresponding Member — National Academy of Artificial Intelligence (NAAI)
 - Outcome-Based Education (OBE) Certified Faculty
